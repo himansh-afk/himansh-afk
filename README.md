@@ -6,8 +6,6 @@
 
 ### 001 — About
 
-### 001 — About
-
 I build things to understand them.
 
 Right now that means machine learning —
