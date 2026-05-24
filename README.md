@@ -27,7 +27,7 @@ currently exploring where I want to specialize.
 | Python | Scikit-learn · Pandas · NumPy |
 | JavaScript / TypeScript | Jupyter · Git |
 | C++ | Figma · CSS · React |
-| SQL | MySQL · PostgreSQL |
+| SQL | MySQL |
 
 ---
 
