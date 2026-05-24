@@ -1,6 +1,4 @@
-```
-himansh-afk
-```
+
 # Himanshu Shastrakar
 `IT STUDENT` `ML` `FRONTEND` `UI/UX` 
 
@@ -8,10 +6,19 @@ himansh-afk
 
 ### 001 — About
 
-I build things to understand them. Right now that means machine learning —
-real datasets, messy problems, models that actually do something.
-Design-brained enough to care about the interface too.
-Comfortable across the stack; currently figuring out where I want to go deep.
+### 001 — About
+
+I build things to understand them.
+
+Right now that means machine learning —
+working with real datasets, messy problems,
+and models that actually do something.
+
+I also care about the interface:
+how products feel, not just how they function.
+
+Comfortable across the stack;
+currently exploring where I want to specialize.
 
 ---
 
@@ -30,10 +37,10 @@ Comfortable across the stack; currently figuring out where I want to go deep.
 
 | Project | Description | Built with |
 |---|---|---|
-| **F1-Strategy-Predictor** | Race strategy decisions via ML | Jupyter |
-| **AQI-MODEL** | Air quality prediction by city | Jupyter |
-| **Income-Classification-ml** | UCI adult dataset · >$50K classifier | Jupyter |
-| **Career-Mate** | Full-Stack career guidance platform | CSS |
+| **F1-Strategy-Predictor** | Race strategy decisions via ML | Python · Pandas · Scikit-learn · FastF1 API |
+| **AQI-MODEL** | Air quality prediction by city | Python · Pandas · Scikit-learn |
+| **Income-Classification-ml** | UCI adult dataset · >$50K classifier | Python · Pandas · Scikit-learn |
+| **Career-Mate** | Full-stack career guidance platform | React · CSS · Node.js |
 
 ---
 
